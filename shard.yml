@@ -1,0 +1,13 @@
+name: clevelandelectionmap
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  clevelandelectionmap:
+    main: src/clevelandelectionmap.cr
+
+crystal: '>= 1.16.3'
+
+license: MIT

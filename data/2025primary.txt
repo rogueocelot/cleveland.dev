@@ -1,0 +1,2498 @@
+Precinct 0002CLEVELAND -01-A
+Cleveland Council Ward 1 (NON) (Vote for 1)
+46 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+9
+3
+2
+32
+0
+46
+0
+0
+19.57%
+6.52%
+4.35%
+69.57%
+0.00%
+100.00%
+Precinct 0004CLEVELAND -01-B
+Cleveland Council Ward 1 (NON) (Vote for 1)
+36 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+6
+0
+1
+27
+2
+36
+0
+0
+16.67%
+0.00%
+2.78%
+75.00%
+5.56%
+100.00%
+Precinct 0005CLEVELAND -01-C
+Cleveland Council Ward 1 (NON) (Vote for 1)
+47 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+13
+2
+1
+31
+0
+47
+0
+0
+27.66%
+4.26%
+2.13%
+65.96%
+0.00%
+100.00%
+Precinct 0007CLEVELAND -01-D
+Cleveland Council Ward 1 (NON) (Vote for 1)
+38 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+9
+2
+0
+23
+4
+38
+0
+0
+23.68%
+5.26%
+0.00%
+60.53%
+10.53%
+100.00%
+Precinct 0008CLEVELAND -01-E
+Cleveland Council Ward 1 (NON) (Vote for 1)
+107 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+48
+1
+2
+44
+12
+44.86%
+0.93%
+1.87%
+41.12%
+11.21%
+Total
+Overvotes
+Undervotes107
+0
+0100.00%
+Precinct 0009CLEVELAND -01-F
+Cleveland Council Ward 1 (NON) (Vote for 1)
+111 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+31
+1
+3
+74
+2
+111
+0
+0
+27.93%
+0.90%
+2.70%
+66.67%
+1.80%
+100.00%
+Precinct 0010CLEVELAND -01-G
+Cleveland Council Ward 1 (NON) (Vote for 1)
+50 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+28
+0
+1
+17
+4
+50
+0
+0
+56.00%
+0.00%
+2.00%
+34.00%
+8.00%
+100.00%
+Precinct 0011CLEVELAND -01-H
+Cleveland Council Ward 1 (NON) (Vote for 1)
+132 ballots (1 over voted ballots, 1 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+27
+1
+2
+96
+5
+131
+1
+0
+20.61%
+0.76%
+1.53%
+73.28%
+3.82%
+100.00%
+Precinct 0012CLEVELAND -01-I
+Cleveland Council Ward 1 (NON) (Vote for 1)
+65 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+16
+3
+2
+36
+8
+65
+0
+0
+24.62%
+4.62%
+3.08%
+55.38%
+12.31%
+100.00%
+Precinct 0013CLEVELAND -01-J
+Cleveland Council Ward 1 (NON) (Vote for 1)
+31 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+16
+1
+1
+13
+0
+51.61%
+3.23%
+3.23%
+41.94%
+Total
+Overvotes
+Undervotes
+31
+0
+00.00%
+100.00%
+Precinct 0014CLEVELAND -01-K
+Cleveland Council Ward 1 (NON) (Vote for 1)
+61 ballots (0 over voted ballots, 0 overvotes, 1 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+27
+1
+0
+30
+2
+60
+0
+1
+45.00%
+1.67%
+0.00%
+50.00%
+3.33%
+100.00%
+Precinct 0015CLEVELAND -01-L
+Cleveland Council Ward 1 (NON) (Vote for 1)
+163 ballots (1 over voted ballots, 1 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+39
+7
+15
+95
+6
+162
+1
+0
+24.07%
+4.32%
+9.26%
+58.64%
+3.70%
+100.00%
+Precinct 0016CLEVELAND -01-M
+Cleveland Council Ward 1 (NON) (Vote for 1)
+158 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+55
+5
+7
+84
+7
+158
+0
+0
+34.81%
+3.16%
+4.43%
+53.16%
+4.43%
+100.00%
+Precinct 0017CLEVELAND -01-N
+Cleveland Council Ward 1 (NON) (Vote for 1)
+148 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+40
+1
+3
+102
+2
+148
+0
+0
+27.03%
+0.68%
+2.03%
+68.92%
+1.35%
+100.00%
+Precinct 0018CLEVELAND -01-O
+Cleveland Council Ward 1 (NON) (Vote for 1)
+119 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+23
+0
+2
+87
+7
+19.33%
+0.00%
+1.68%
+Total
+Overvotes
+Undervotes
+VotesVote %
+119
+0
+073.11%
+5.88%
+100.00%
+Precinct 0019CLEVELAND -01-P
+Cleveland Council Ward 1 (NON) (Vote for 1)
+120 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+39
+2
+3
+75
+1
+120
+0
+0
+32.50%
+1.67%
+2.50%
+62.50%
+0.83%
+100.00%
+Precinct 0020CLEVELAND -01-Q
+Cleveland Council Ward 1 (NON) (Vote for 1)
+132 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+50
+13
+1
+68
+0
+132
+0
+0
+37.88%
+9.85%
+0.76%
+51.52%
+0.00%
+100.00%
+Precinct 0021CLEVELAND -01-R
+Cleveland Council Ward 1 (NON) (Vote for 1)
+114 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+28
+2
+2
+76
+6
+114
+0
+0
+24.56%
+1.75%
+1.75%
+66.67%
+5.26%
+100.00%
+Precinct 0022CLEVELAND -01-S
+Cleveland Council Ward 1 (NON) (Vote for 1)
+96 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Juanita O. Brent
+Aylwin S. Bridges
+Marc G. Crosby
+Joe Jones
+Lesa Jones Dollar
+Total
+Overvotes
+Undervotes
+33
+2
+0
+60
+1
+96
+0
+0
+34.38%
+2.08%
+0.00%
+62.50%
+1.04%
+100.00%
+Precinct 0023CLEVELAND -03-A
+Cleveland Council Ward 3 (NON) (Vote for 1)
+17 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+14
+0
+3
+82.35%
+0.00%
+Total
+Overvotes
+Undervotes
+17
+0
+0
+17.65%
+100.00%
+Precinct 0024CLEVELAND -03-B
+Cleveland Council Ward 3 (NON) (Vote for 1)
+17 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+11
+3
+3
+17
+0
+0
+64.71%
+17.65%
+17.65%
+100.00%
+Precinct 0026CLEVELAND -03-C
+Cleveland Council Ward 3 (NON) (Vote for 1)
+67 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+55
+8
+4
+67
+0
+0
+82.09%
+11.94%
+5.97%
+100.00%
+Precinct 0027CLEVELAND -03-D
+Cleveland Council Ward 3 (NON) (Vote for 1)
+54 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+43
+5
+6
+54
+0
+0
+79.63%
+9.26%
+11.11%
+100.00%
+Precinct 0029CLEVELAND -03-E
+Cleveland Council Ward 3 (NON) (Vote for 1)
+48 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+39
+4
+5
+48
+0
+0
+81.25%
+8.33%
+10.42%
+100.00%
+Precinct 0030CLEVELAND -03-F
+Cleveland Council Ward 3 (NON) (Vote for 1)
+29 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+19
+10
+0
+29
+0
+0
+65.52%
+34.48%
+0.00%
+100.00%
+Precinct 0031CLEVELAND -03-G
+Cleveland Council Ward 3 (NON) (Vote for 1)
+50 ballots (0 over voted ballots, 0 overvotes, 1 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+41
+5
+3
+49
+0
+1
+83.67%
+10.20%
+6.12%
+100.00%
+Precinct 0032CLEVELAND -03-H
+Cleveland Council Ward 3 (NON) (Vote for 1)
+18 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+11
+4
+3
+18
+0
+0
+61.11%
+22.22%
+16.67%
+100.00%
+Precinct 0033CLEVELAND -03-I
+Cleveland Council Ward 3 (NON) (Vote for 1)
+35 ballots (1 over voted ballots, 1 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+17
+10
+7
+34
+1
+0
+50.00%
+29.41%
+20.59%
+100.00%
+Precinct 0034CLEVELAND -03-J
+Cleveland Council Ward 3 (NON) (Vote for 1)
+30 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+12
+8
+10
+30
+0
+0
+40.00%
+26.67%
+33.33%
+100.00%
+Precinct 0035CLEVELAND -03-K
+Cleveland Council Ward 3 (NON) (Vote for 1)
+35 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+24
+8
+3
+35
+0
+0
+68.57%
+22.86%
+8.57%
+100.00%
+Precinct 0036CLEVELAND -03-L
+Cleveland Council Ward 3 (NON) (Vote for 1)
+49 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+43
+1
+5
+87.76%
+2.04%
+10.20%
+Total
+Overvotes
+Undervotes
+49
+0
+0100.00%
+Precinct 0037CLEVELAND -03-M
+Cleveland Council Ward 3 (NON) (Vote for 1)
+65 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+53
+7
+5
+65
+0
+0
+81.54%
+10.77%
+7.69%
+100.00%
+Precinct 0038CLEVELAND -03-N
+Cleveland Council Ward 3 (NON) (Vote for 1)
+169 ballots (0 over voted ballots, 0 overvotes, 2 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+100
+21
+46
+167
+0
+2
+59.88%
+12.57%
+27.54%
+100.00%
+Precinct 0039CLEVELAND -03-O
+Cleveland Council Ward 3 (NON) (Vote for 1)
+61 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+53
+5
+3
+61
+0
+0
+86.89%
+8.20%
+4.92%
+100.00%
+Precinct 0040CLEVELAND -03-P
+Cleveland Council Ward 3 (NON) (Vote for 1)
+64 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+44
+3
+17
+64
+0
+0
+68.75%
+4.69%
+26.56%
+100.00%
+Precinct 0042CLEVELAND -03-Q
+Cleveland Council Ward 3 (NON) (Vote for 1)
+35 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+31
+3
+1
+35
+0
+0
+88.57%
+8.57%
+2.86%
+100.00%
+Precinct 0043CLEVELAND -03-R
+Cleveland Council Ward 3 (NON) (Vote for 1)
+57 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Deborah A. Gray
+Sharon M. Spruill
+Erich V. Stubbs
+Total
+Overvotes
+Undervotes
+44
+8
+5
+57
+0
+014.04%
+8.77%
+100.00%
+Precinct 0044CLEVELAND -05-A
+Cleveland Council Ward 5 (NON) (Vote for 1)
+61 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+5
+0
+56
+61
+0
+0
+8.20%
+0.00%
+91.80%
+100.00%
+Precinct 0045CLEVELAND -05-B
+Cleveland Council Ward 5 (NON) (Vote for 1)
+37 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+3
+2
+32
+37
+0
+0
+8.11%
+5.41%
+86.49%
+100.00%
+Precinct 0046CLEVELAND -05-C
+Cleveland Council Ward 5 (NON) (Vote for 1)
+49 ballots (1 over voted ballots, 1 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+29
+3
+16
+48
+1
+0
+60.42%
+6.25%
+33.33%
+100.00%
+Precinct 0047CLEVELAND -05-D
+Cleveland Council Ward 5 (NON) (Vote for 1)
+95 ballots (0 over voted ballots, 0 overvotes, 1 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+7
+5
+82
+94
+0
+1
+7.45%
+5.32%
+87.23%
+100.00%
+Precinct 0048CLEVELAND -05-E
+Cleveland Council Ward 5 (NON) (Vote for 1)
+16 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+11
+0
+5
+16
+0
+0
+68.75%
+0.00%
+31.25%
+100.00%
+Precinct 0049CLEVELAND -05-F
+Cleveland Council Ward 5 (NON) (Vote for 1)
+51 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+3
+2
+46
+51
+0
+0
+5.88%
+3.92%
+90.20%
+100.00%
+Precinct 0050CLEVELAND -05-G
+Cleveland Council Ward 5 (NON) (Vote for 1)
+25 ballots (0 over voted ballots, 0 overvotes, 1 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+13
+1
+10
+24
+0
+1
+54.17%
+4.17%
+41.67%
+100.00%
+Precinct 0052CLEVELAND -05-H
+Cleveland Council Ward 5 (NON) (Vote for 1)
+73 ballots (0 over voted ballots, 0 overvotes, 1 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+7
+1
+64
+72
+0
+1
+9.72%
+1.39%
+88.89%
+100.00%
+Precinct 0053CLEVELAND -05-I
+Cleveland Council Ward 5 (NON) (Vote for 1)
+39 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+31
+2
+6
+39
+0
+0
+79.49%
+5.13%
+15.38%
+100.00%
+Precinct 0054CLEVELAND -05-J
+Cleveland Council Ward 5 (NON) (Vote for 1)
+53 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+48
+1
+4
+53
+0
+0
+90.57%
+1.89%
+7.55%
+100.00%
+Precinct 0055CLEVELAND -05-K
+Cleveland Council Ward 5 (NON) (Vote for 1)
+36 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+8
+2
+26
+22.22%
+5.56%
+72.22%
+Total
+Overvotes
+Undervotes
+36
+0
+0100.00%
+Precinct 0056CLEVELAND -05-L
+Cleveland Council Ward 5 (NON) (Vote for 1)
+99 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+9
+9
+81
+99
+0
+0
+9.09%
+9.09%
+81.82%
+100.00%
+Precinct 0057CLEVELAND -05-M
+Cleveland Council Ward 5 (NON) (Vote for 1)
+91 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+5
+6
+80
+91
+0
+0
+5.49%
+6.59%
+87.91%
+100.00%
+Precinct 0058CLEVELAND -05-N
+Cleveland Council Ward 5 (NON) (Vote for 1)
+53 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+30
+3
+20
+53
+0
+0
+56.60%
+5.66%
+37.74%
+100.00%
+Precinct 0059CLEVELAND -05-O
+Cleveland Council Ward 5 (NON) (Vote for 1)
+129 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Rebecca Maurer
+Beverly Owens-Jackson
+Richard A. Starr
+Total
+Overvotes
+Undervotes
+20
+10
+99
+129
+0
+0
+15.50%
+7.75%
+76.74%
+100.00%
+Precinct 0060CLEVELAND -07-A
+Cleveland Council Ward 7 (NON) (Vote for 1)
+26 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+15
+11
+0
+26
+0
+0
+57.69%
+42.31%
+0.00%
+100.00%
+Precinct 0061CLEVELAND -07-B
+Cleveland Council Ward 7 (NON) (Vote for 1)
+123 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+60
+50
+13
+123
+0
+040.65%
+10.57%
+100.00%
+Precinct 0062CLEVELAND -07-C
+Cleveland Council Ward 7 (NON) (Vote for 1)
+135 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+92
+35
+8
+135
+0
+0
+68.15%
+25.93%
+5.93%
+100.00%
+Precinct 0063CLEVELAND -07-D
+Cleveland Council Ward 7 (NON) (Vote for 1)
+157 ballots (0 over voted ballots, 0 overvotes, 1 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+97
+44
+15
+156
+0
+1
+62.18%
+28.21%
+9.62%
+100.00%
+Precinct 0064CLEVELAND -07-E
+Cleveland Council Ward 7 (NON) (Vote for 1)
+101 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+64
+26
+11
+101
+0
+0
+63.37%
+25.74%
+10.89%
+100.00%
+Precinct 0065CLEVELAND -07-F
+Cleveland Council Ward 7 (NON) (Vote for 1)
+92 ballots (1 over voted ballots, 1 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+61
+18
+12
+91
+1
+0
+67.03%
+19.78%
+13.19%
+100.00%
+Precinct 0066CLEVELAND -07-G
+Cleveland Council Ward 7 (NON) (Vote for 1)
+124 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+66
+50
+8
+124
+0
+0
+53.23%
+40.32%
+6.45%
+100.00%
+Precinct 0067CLEVELAND -07-H
+Cleveland Council Ward 7 (NON) (Vote for 1)
+32 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+13
+12
+7
+32
+0
+0
+40.62%
+37.50%
+21.88%
+100.00%
+Precinct 0068CLEVELAND -07-I
+Cleveland Council Ward 7 (NON) (Vote for 1)
+100 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+39
+54
+7
+100
+0
+0
+39.00%
+54.00%
+7.00%
+100.00%
+Precinct 0069CLEVELAND -07-J
+Cleveland Council Ward 7 (NON) (Vote for 1)
+107 ballots (0 over voted ballots, 0 overvotes, 2 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+51
+35
+19
+105
+0
+2
+48.57%
+33.33%
+18.10%
+100.00%
+Precinct 0070CLEVELAND -07-K
+Cleveland Council Ward 7 (NON) (Vote for 1)
+112 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+45
+37
+30
+112
+0
+0
+40.18%
+33.04%
+26.79%
+100.00%
+Precinct 0071CLEVELAND -07-L
+Cleveland Council Ward 7 (NON) (Vote for 1)
+131 ballots (2 over voted ballots, 2 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+69
+53
+7
+129
+2
+0
+53.49%
+41.09%
+5.43%
+100.00%
+Precinct 0073CLEVELAND -07-M
+Cleveland Council Ward 7 (NON) (Vote for 1)
+106 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+65
+28
+13
+106
+0
+0
+61.32%
+26.42%
+12.26%
+100.00%
+Precinct 0074CLEVELAND -07-N
+Cleveland Council Ward 7 (NON) (Vote for 1)
+104 ballots (1 over voted ballots, 1 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+52
+43
+8
+103
+1
+0
+50.49%
+41.75%
+7.77%
+100.00%
+Precinct 0075CLEVELAND -07-O
+Cleveland Council Ward 7 (NON) (Vote for 1)
+80 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+45
+25
+10
+80
+0
+0
+56.25%
+31.25%
+12.50%
+100.00%
+Precinct 0076CLEVELAND -07-P
+Cleveland Council Ward 7 (NON) (Vote for 1)
+66 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+41
+18
+7
+66
+0
+0
+62.12%
+27.27%
+10.61%
+100.00%
+Precinct 0077CLEVELAND -07-Q
+Cleveland Council Ward 7 (NON) (Vote for 1)
+24 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+Total
+Overvotes
+Undervotes
+11
+7
+6
+24
+0
+0
+45.83%
+29.17%
+25.00%
+100.00%
+Precinct 0078CLEVELAND -07-R
+Cleveland Council Ward 7 (NON) (Vote for 1)
+88 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Austin N. Davis
+Mohammad Faraj
+Mike Rogalski
+64
+18
+6
+72.73%
+20.45%
+6.82%
+Total
+Overvotes
+Undervotes
+88
+0
+0100.00%
+Precinct 0079CLEVELAND -08-A
+Cleveland Council Ward 8 (NON) (Vote for 1)
+3 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+3
+0
+0
+0
+0
+3
+0
+0
+100.00%
+0.00%
+0.00%
+0.00%
+0.00%
+100.00%
+Precinct 0080CLEVELAND -08-B
+Cleveland Council Ward 8 (NON) (Vote for 1)
+39 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+30
+0
+2
+7
+0
+39
+0
+0
+76.92%
+0.00%
+5.13%
+17.95%
+0.00%
+100.00%
+Precinct 0081CLEVELAND -08-C
+Cleveland Council Ward 8 (NON) (Vote for 1)
+50 ballots (1 over voted ballots, 1 overvotes, 1 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+18
+1
+4
+25
+0
+48
+1
+1
+37.50%
+2.08%
+8.33%
+52.08%
+0.00%
+100.00%
+Precinct 0082CLEVELAND -08-D
+Cleveland Council Ward 8 (NON) (Vote for 1)
+50 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+9
+2
+2
+37
+0
+50
+0
+0
+18.00%
+4.00%
+4.00%
+74.00%
+0.00%
+100.00%
+Precinct 0083CLEVELAND -08-E
+Cleveland Council Ward 8 (NON) (Vote for 1)
+60 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+26
+2
+6
+22
+43.33%
+3.33%
+10.00%
+36.67%
+Write-in
+Total
+Overvotes
+Undervotes
+4
+60
+0
+06.67%
+100.00%
+Precinct 0084CLEVELAND -08-F
+Cleveland Council Ward 8 (NON) (Vote for 1)
+47 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+27
+1
+11
+7
+1
+47
+0
+0
+57.45%
+2.13%
+23.40%
+14.89%
+2.13%
+100.00%
+Precinct 0085CLEVELAND -08-G
+Cleveland Council Ward 8 (NON) (Vote for 1)
+58 ballots (1 over voted ballots, 1 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+41
+0
+12
+4
+0
+57
+1
+0
+71.93%
+0.00%
+21.05%
+7.02%
+0.00%
+100.00%
+Precinct 0086CLEVELAND -08-H
+Cleveland Council Ward 8 (NON) (Vote for 1)
+33 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+27
+0
+3
+3
+0
+33
+0
+0
+81.82%
+0.00%
+9.09%
+9.09%
+0.00%
+100.00%
+Precinct 0087CLEVELAND -08-I
+Cleveland Council Ward 8 (NON) (Vote for 1)
+43 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+33
+0
+7
+3
+0
+43
+0
+0
+76.74%
+0.00%
+16.28%
+6.98%
+0.00%
+100.00%
+Precinct 0088CLEVELAND -08-J
+Cleveland Council Ward 8 (NON) (Vote for 1)
+32 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+16
+2
+10
+4
+0
+50.00%
+6.25%
+31.25%
+Total
+Overvotes
+Undervotes
+32
+0
+012.50%
+0.00%
+100.00%
+Precinct 0089CLEVELAND -08-K
+Cleveland Council Ward 8 (NON) (Vote for 1)
+42 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+25
+0
+15
+2
+0
+42
+0
+0
+59.52%
+0.00%
+35.71%
+4.76%
+0.00%
+100.00%
+Precinct 0090CLEVELAND -08-L
+Cleveland Council Ward 8 (NON) (Vote for 1)
+141 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+101
+1
+28
+11
+0
+141
+0
+0
+71.63%
+0.71%
+19.86%
+7.80%
+0.00%
+100.00%
+Precinct 0091CLEVELAND -08-M
+Cleveland Council Ward 8 (NON) (Vote for 1)
+28 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+19
+0
+4
+5
+0
+28
+0
+0
+67.86%
+0.00%
+14.29%
+17.86%
+0.00%
+100.00%
+Precinct 0092CLEVELAND -08-N
+Cleveland Council Ward 8 (NON) (Vote for 1)
+39 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+32
+1
+4
+2
+0
+39
+0
+0
+82.05%
+2.56%
+10.26%
+5.13%
+0.00%
+100.00%
+Precinct 0093CLEVELAND -08-O
+Cleveland Council Ward 8 (NON) (Vote for 1)
+77 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+58
+0
+16
+3
+0
+75.32%
+0.00%
+Total
+Overvotes
+Undervotes
+77
+0
+020.78%
+3.90%
+0.00%
+100.00%
+Precinct 0094CLEVELAND -08-P
+Cleveland Council Ward 8 (NON) (Vote for 1)
+86 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+61
+2
+17
+5
+1
+86
+0
+0
+70.93%
+2.33%
+19.77%
+5.81%
+1.16%
+100.00%
+Precinct 0095CLEVELAND -08-Q
+Cleveland Council Ward 8 (NON) (Vote for 1)
+73 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Stephanie Howse-Jones
+Leon Meredith
+Charlotte Perkins
+Teri Ying-Liang Wang
+Write-in
+Total
+Overvotes
+Undervotes
+36
+0
+31
+5
+1
+73
+0
+0
+49.32%
+0.00%
+42.47%
+6.85%
+1.37%
+100.00%
+Precinct 0096CLEVELAND -09-A
+Cleveland Council Ward 9 (NON) (Vote for 1)
+54 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+10
+38
+6
+54
+0
+0
+18.52%
+70.37%
+11.11%
+100.00%
+Precinct 0097CLEVELAND -09-B
+Cleveland Council Ward 9 (NON) (Vote for 1)
+75 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+12
+59
+4
+75
+0
+0
+16.00%
+78.67%
+5.33%
+100.00%
+Precinct 0098CLEVELAND -09-C
+Cleveland Council Ward 9 (NON) (Vote for 1)
+71 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+10
+60
+1
+14.08%
+84.51%
+1.41%
+Total
+Overvotes
+Undervotes
+71
+0
+0100.00%
+Precinct 0099CLEVELAND -09-D
+Cleveland Council Ward 9 (NON) (Vote for 1)
+73 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+6
+64
+3
+73
+0
+0
+8.22%
+87.67%
+4.11%
+100.00%
+Precinct 0100CLEVELAND -09-E
+Cleveland Council Ward 9 (NON) (Vote for 1)
+55 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+4
+47
+4
+55
+0
+0
+7.27%
+85.45%
+7.27%
+100.00%
+Precinct 0101CLEVELAND -09-F
+Cleveland Council Ward 9 (NON) (Vote for 1)
+73 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+12
+58
+3
+73
+0
+0
+16.44%
+79.45%
+4.11%
+100.00%
+Precinct 0102CLEVELAND -09-G
+Cleveland Council Ward 9 (NON) (Vote for 1)
+65 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+19
+40
+6
+65
+0
+0
+29.23%
+61.54%
+9.23%
+100.00%
+Precinct 0103CLEVELAND -09-H
+Cleveland Council Ward 9 (NON) (Vote for 1)
+101 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+22
+73
+6
+101
+0
+0
+21.78%
+72.28%
+5.94%
+100.00%
+Precinct 0104CLEVELAND -09-I
+Cleveland Council Ward 9 (NON) (Vote for 1)
+52 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+6
+45
+1
+11.54%
+Total
+Overvotes
+Undervotes
+52
+0
+086.54%
+1.92%
+100.00%
+Precinct 0105CLEVELAND -09-J
+Cleveland Council Ward 9 (NON) (Vote for 1)
+51 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+3
+48
+0
+51
+0
+0
+5.88%
+94.12%
+0.00%
+100.00%
+Precinct 0106CLEVELAND -09-K
+Cleveland Council Ward 9 (NON) (Vote for 1)
+77 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+19
+57
+1
+77
+0
+0
+24.68%
+74.03%
+1.30%
+100.00%
+Precinct 0107CLEVELAND -09-L
+Cleveland Council Ward 9 (NON) (Vote for 1)
+59 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+14
+42
+3
+59
+0
+0
+23.73%
+71.19%
+5.08%
+100.00%
+Precinct 0108CLEVELAND -09-M
+Cleveland Council Ward 9 (NON) (Vote for 1)
+72 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+21
+48
+3
+72
+0
+0
+29.17%
+66.67%
+4.17%
+100.00%
+Precinct 0109CLEVELAND -09-N
+Cleveland Council Ward 9 (NON) (Vote for 1)
+39 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+8
+29
+2
+39
+0
+0
+20.51%
+74.36%
+5.13%
+100.00%
+Precinct 0110CLEVELAND -09-O
+Cleveland Council Ward 9 (NON) (Vote for 1)
+59 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+14
+37
+8
+59
+0
+0
+23.73%
+62.71%
+13.56%
+100.00%
+Precinct 0111CLEVELAND -09-P
+Cleveland Council Ward 9 (NON) (Vote for 1)
+17 ballots (0 over voted ballots, 0 overvotes, 1 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+3
+12
+1
+16
+0
+1
+18.75%
+75.00%
+6.25%
+100.00%
+Precinct 0112CLEVELAND -09-Q
+Cleveland Council Ward 9 (NON) (Vote for 1)
+59 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+5
+53
+1
+59
+0
+0
+8.47%
+89.83%
+1.69%
+100.00%
+Precinct 0113CLEVELAND -09-R
+Cleveland Council Ward 9 (NON) (Vote for 1)
+8 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+1
+6
+1
+8
+0
+0
+12.50%
+75.00%
+12.50%
+100.00%
+Precinct 0114CLEVELAND -09-S
+Cleveland Council Ward 9 (NON) (Vote for 1)
+109 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+Total
+Overvotes
+Undervotes
+21
+81
+7
+109
+0
+0
+19.27%
+74.31%
+6.42%
+100.00%
+Precinct 0115CLEVELAND -09-T
+Cleveland Council Ward 9 (NON) (Vote for 1)
+50 ballots (0 over voted ballots, 0 overvotes, 1 undervotes)
+Alana Belle
+Kevin Conwell
+Tony Evans Jr
+8
+41
+0
+16.33%
+83.67%
+0.00%
+Total
+Overvotes
+Undervotes
+49
+0
+1100.00%
+Precinct 0116CLEVELAND -12-A
+Cleveland Council Ward 12 (NON) (Vote for 1)
+145 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+35
+78
+32
+145
+0
+0
+24.14%
+53.79%
+22.07%
+100.00%
+Precinct 0117CLEVELAND -12-B
+Cleveland Council Ward 12 (NON) (Vote for 1)
+153 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+59
+32
+62
+153
+0
+0
+38.56%
+20.92%
+40.52%
+100.00%
+Precinct 0118CLEVELAND -12-C
+Cleveland Council Ward 12 (NON) (Vote for 1)
+239 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+82
+56
+101
+239
+0
+0
+34.31%
+23.43%
+42.26%
+100.00%
+Precinct 0119CLEVELAND -12-D
+Cleveland Council Ward 12 (NON) (Vote for 1)
+71 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+8
+31
+32
+71
+0
+0
+11.27%
+43.66%
+45.07%
+100.00%
+Precinct 0120CLEVELAND -12-E
+Cleveland Council Ward 12 (NON) (Vote for 1)
+32 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+4
+17
+11
+32
+0
+0
+12.50%
+53.12%
+34.38%
+100.00%
+Precinct 0121CLEVELAND -12-F
+Cleveland Council Ward 12 (NON) (Vote for 1)
+52 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+4
+27
+21
+7.69%
+Total
+Overvotes
+Undervotes
+52
+0
+051.92%
+40.38%
+100.00%
+Precinct 0122CLEVELAND -12-G
+Cleveland Council Ward 12 (NON) (Vote for 1)
+57 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+21
+15
+21
+57
+0
+0
+36.84%
+26.32%
+36.84%
+100.00%
+Precinct 0123CLEVELAND -12-H
+Cleveland Council Ward 12 (NON) (Vote for 1)
+67 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+8
+43
+16
+67
+0
+0
+11.94%
+64.18%
+23.88%
+100.00%
+Precinct 0124CLEVELAND -12-I
+Cleveland Council Ward 12 (NON) (Vote for 1)
+85 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+7
+48
+30
+85
+0
+0
+8.24%
+56.47%
+35.29%
+100.00%
+Precinct 0125CLEVELAND -12-J
+Cleveland Council Ward 12 (NON) (Vote for 1)
+102 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+5
+75
+22
+102
+0
+0
+4.90%
+73.53%
+21.57%
+100.00%
+Precinct 0126CLEVELAND -12-K
+Cleveland Council Ward 12 (NON) (Vote for 1)
+85 ballots (0 over voted ballots, 0 overvotes, 1 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+7
+62
+15
+84
+0
+1
+8.33%
+73.81%
+17.86%
+100.00%
+Precinct 0127CLEVELAND -12-L
+Cleveland Council Ward 12 (NON) (Vote for 1)
+102 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+9
+72
+21
+102
+0
+0
+8.82%
+70.59%
+20.59%
+100.00%
+Precinct 0128CLEVELAND -12-M
+Cleveland Council Ward 12 (NON) (Vote for 1)
+73 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+4
+54
+15
+73
+0
+0
+5.48%
+73.97%
+20.55%
+100.00%
+Precinct 0129CLEVELAND -12-N
+Cleveland Council Ward 12 (NON) (Vote for 1)
+97 ballots (0 over voted ballots, 0 overvotes, 0 undervotes)
+Andrew DeFratis
+Danny Kelly
+Tanmay Shah
+Total
+Overvotes
+Undervotes
+15
+59
+23
+97
+0
+0
+15.46%
+60.82%
+23.71%
+100.00%
