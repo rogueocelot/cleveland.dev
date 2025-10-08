@@ -204,9 +204,6 @@
                 //create map
                 var map = L.map('map').setView([41.4760,-81.6930], 12);
 
-                //add link to wheresrta github
-                map.attributionControl.addAttribution('<a href="https://github.com/rogueocelot/wheresrta">Github</a>');
-
                 //add the osm map layer
                 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 maxZoom: 19,
@@ -238,8 +235,78 @@
                     if(votes){
                         const total = Object.values(votes).reduce((sum, val) => sum + val, 0);
                         const first = votes[Object.keys(votes)[0]];
-                        const percent = first/total;
+                        let percent = first/total;
                         //const color =
+                        if(label.match(/^12.$/)){
+                          if(votes[Object.keys(votes)[0]] >= votes[Object.keys(votes)[1]]){
+                            if(votes[Object.keys(votes)[0]] >= votes[Object.keys(votes)[2]]){
+                              percent = votes[Object.keys(votes)[0]]/total
+                              const colorScale = chroma
+                                  //.scale(coloroptions[feature.properties.Label.charAt(0)])
+                                  .scale(['#646670','#001cbd'])
+                                  //.scale(coloroptions[1])
+                                  .domain([0, 1])
+                                  .mode('lab');
+
+                              return { color: colorScale(percent).hex(), weight: 1, "fillOpacity": .8 };
+                            } else {
+                              percent = votes[Object.keys(votes)[2]]/total
+                              const colorScale = chroma
+                                  //.scale(coloroptions[feature.properties.Label.charAt(0)])
+                                  .scale(['#646670','#db8f00'])
+                                  //.scale(coloroptions[1])
+                                  .domain([0, 1])
+                                  .mode('lab');
+
+                              return { color: colorScale(percent).hex(), weight: 1, "fillOpacity": .8 };
+                            }
+                          } else {
+                            percent = votes[Object.keys(votes)[1]]/total
+                            const colorScale = chroma
+                                //.scale(coloroptions[feature.properties.Label.charAt(0)])
+                                .scale(['#646670','#a800a0'])
+                                //.scale(coloroptions[1])
+                                .domain([0, 1])
+                                .mode('lab');
+
+                            return { color: colorScale(percent).hex(), weight: 1, "fillOpacity": .8 };
+                          }
+                        }
+                        if(label.match(/^8.$/)){
+                          if(votes[Object.keys(votes)[0]] >= votes[Object.keys(votes)[2]]){
+                            if(votes[Object.keys(votes)[0]] >= votes[Object.keys(votes)[3]]){
+                              percent = votes[Object.keys(votes)[0]]/total
+                              const colorScale = chroma
+                                  //.scale(coloroptions[feature.properties.Label.charAt(0)])
+                                  .scale(['#646670','#001cbd'])
+                                  //.scale(coloroptions[1])
+                                  .domain([0, 1])
+                                  .mode('lab');
+
+                              return { color: colorScale(percent).hex(), weight: 1, "fillOpacity": .8 };
+                            } else {
+                              percent = votes[Object.keys(votes)[3]]/total
+                              const colorScale = chroma
+                                  //.scale(coloroptions[feature.properties.Label.charAt(0)])
+                                  .scale(['#646670','#db8f00'])
+                                  //.scale(coloroptions[1])
+                                  .domain([0, 1])
+                                  .mode('lab');
+
+                              return { color: colorScale(percent).hex(), weight: 1, "fillOpacity": .8 };
+                            }
+                          } else {
+                            percent = votes[Object.keys(votes)[2]]/total
+                            const colorScale = chroma
+                                //.scale(coloroptions[feature.properties.Label.charAt(0)])
+                                .scale(['#646670','#a800a0'])
+                                //.scale(coloroptions[1])
+                                .domain([0, 1])
+                                .mode('lab');
+
+                            return { color: colorScale(percent).hex(), weight: 1, "fillOpacity": .8 };
+                          }
+                        } else {
                         const colorScale = chroma
                             //.scale(coloroptions[feature.properties.Label.charAt(0)])
                             .scale(coloroptions[feature.properties.Label.charAt(0)])
@@ -248,6 +315,7 @@
                             .mode('lab');
 
                         return { color: colorScale(percent).hex(), weight: 1, "fillOpacity": .8 };
+                        }
                     } else {return {color: "#828079", weight: 1};}
                   },
                     onEachFeature: function (feature, layer){
