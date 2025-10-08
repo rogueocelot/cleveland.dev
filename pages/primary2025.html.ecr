@@ -22,9 +22,182 @@
                 z-index: 1;
              }
 
+            h3 {
+              text-align: center;
+              font-weight: bold;
+            }
+
+            #results {
+                height: 95vh;
+                overflow-y: auto;
+                max-width: 19vw;
+                position: fixed;
+                bottom: 1vh;
+                right: 1vw;
+                background-color: #ebe5db;
+                z-index: 2;
+                border-radius: 10px;
+                border: 3px solid #332929;
+                min-width: 11vw;
+                margin: 10px;
+                font-size: small;
+                /*font-weight: 550;*/
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            #menu {
+                height: 6vh;
+                max-width: fit-content;
+                max-height: fit-content;
+                position: fixed;
+                top: 0;
+                left: 2vw;
+                z-index: 2;
+                margin: 10px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+            }
+
+            .select-button{
+                float: left;
+            }
+
+            .select-button label {
+                border: 3px solid #3a3c40;
+                border-radius: 10px;
+                box-sizing: border-box;
+                color: #332929;
+                background-color: #ebe5db;
+                cursor: pointer;
+                display: flex;
+                font-size: 3vh;
+                font-weight: 650;
+                font-family: Arial, Helvetica, sans-serif;
+                justify-content: center;
+                margin: 8px;
+                min-height: 5vh;
+                min-width: 12vh;
+                padding-top: 0.5vh;
+                text-align: center;
+                transition: all 350ms cubic-bezier(0.165, 0.84, 0.44, 1);
+                touch-action: manipulation;
+                will-change: transform;
+            }
+
+            .select-button input {
+                display: none;
+            }
+
+            .select-button:disabled {
+                pointer-events: none;
+            }
+
+            .select-button label:hover {
+                color: #ebe5db;
+                background-color: #3a3c40;
+            }
+
+            .select-button label:active,
+            .select-button input:focus + label {
+                color: #ebe5db;
+                background-color: #3a3c40;
+            }
+
+            .select-button input:checked + label {
+                color: #ebe5db;
+                background-color: #3a3c40;
+            }
+
+            @media screen and (max-width: 1000px) {
+                #menu {
+                    width: 90vw;
+                }
+            }
+
         </style>
     </head>
     <body>
+
+        <div id="menu">
+            <div class="select-button" onclick="goto2025pri()">
+                <input type="button" name="selection" id="2025pri" value="1" autocomplete="off">
+                <label for="2025pri" unselectable>2025 Primary</label>
+            </div>
+        </div>
+        <script>function goto2025pri(){window.location.href = "/electionmap/2025primary";} </script>
+
+        <div id="results">
+          <h3>Results</h3>
+          <hr>
+          <table>
+          <tr><h3>Ward 1:</h3></tr>
+          <tr><td>Juanita O. Brent</td><td>544</td><td>30.29%</td></tr>
+          <tr><td>Aylwin S. Bridges</td><td>48</td><td>2.67%</td></tr>
+          <tr><td>Marc G. Crosby</td><td>48</td><td>2.67%</td></tr>
+          <tr><td>Joe Jones</td><td>1087</td><td>60.52%</td></tr>
+          <tr><td>Lesa Jones Dollar</td><td>69</td><td>3.84%</td></tr>
+          <tr><td>Total</td><td>1796</td><td>100.00%</td></tr>
+          </table>
+          <hr>
+
+          <table>
+          <tr><h3>Ward 3:</h3></tr>
+          <tr><td>Deborah A. Gray</td><td>662</td><td>72.83%</td></tr>
+          <tr><td>Sharon M. Spruill</td><td>114</td><td>12.54%</td></tr>
+          <tr><td>Erich V. Stubbs</td><td>133</td><td>14.63%</td></tr>
+          <tr><td>Total</td><td>909</td><td>100.00%</td></tr>
+          </table>
+          <hr>
+
+          <table>
+          <tr><h3>Ward 5:</h3></tr>
+          <tr><td>Rebecca Maurer</td><td>230</td><td>24.63%</td></tr>
+          <tr><td>Beverly Owens-Jackson</td><td>47</td><td>5.03%</td></tr>
+          <tr><td>Richard A. Starr</td><td>657</td><td>70.34%</td></tr>
+          <tr><td>Total</td><td>934</td><td>100.00%</td></tr>
+          </table>
+          <hr>
+
+          <table>
+          <tr><h3>Ward 7:</h3></tr>
+          <tr><td>Austin N. Davis</td><td>961</td><td>55.90%</td></tr>
+          <tr><td>Mohammad Faraj</td><td>572</td><td>33.28%</td></tr>
+          <tr><td>Mike Rogalski</td><td>186</td><td>10.82%</td></tr>
+          <tr><td>Total</td><td>1719</td><td>100.00%</td></tr>
+          </table>
+          <hr>
+
+          <table>
+          <tr><h3>Ward 8:</h3></tr>
+          <tr><td>Stephanie Howse-Jones</td><td>568</td><td>62.56%</td></tr>
+          <tr><td>Leon Meredith</td><td>12</td><td>1.32%</td></tr>
+          <tr><td>Charlotte Perkins</td><td>172</td><td>18.94%</td></tr>
+          <tr><td>Teri Ying-Liang Wang</td><td>149</td><td>16.41%</td></tr>
+          <tr><td>Write-in</td><td>7</td><td>0.77%</td></tr>
+          <tr><td>Total</td><td>908</td><td>100.00%</td></tr>
+          </table>
+          <hr>
+
+          <table>
+          <tr><h3>Ward 9:</h3></tr>
+          <tr><td>Alana Belle</td><td>228</td><td>18.15%</td></tr>
+          <tr><td>Kevin Conwell</td><td>956</td><td>76.11%</td></tr>
+          <tr><td>Tony Evans Jr</td><td>72</td><td>5.73%</td></tr>
+          <tr><td>Total</td><td>1256</td><td>100.00%</td></tr>
+          </table>
+          <hr>
+
+          <table>
+          <tr><h3>Ward 12:</h3></tr>
+          <tr><td>Andrew DeFratis</td><td>270</td><td>19.61%</td></tr>
+          <tr><td>Danny Kelly</td><td>680</td><td>49.38%</td></tr>
+          <tr><td>Tanmay Shah</td><td>427</td><td>31.01%</td></tr>
+          <tr><td>Total</td><td>1377</td><td>100.00%</td></tr>
+          </table>
+          <hr>
+        </div>
 
         <div id="map">
             <script type="module">
