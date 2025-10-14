@@ -3,8 +3,10 @@ require "ecr"
 require "base64"
 require "json"
 
+#prerender page for 2025 primary
 primary2025json = File.read("data/primary2025.json")
-# puts primary2025json
+p2025io = IO::Memory.new
+p2025render_page = ECR.embed "pages/primary2025.html.ecr", p2025io
 
 server = HTTP::Server.new do |context|
   case context.request.path
@@ -13,10 +15,8 @@ server = HTTP::Server.new do |context|
   when "/electionmap/"
     context.response.redirect("/electionmap/2025primary")
   when "/electionmap/2025primary"
-    io = IO::Memory.new
-    render_page = ECR.embed "pages/primary2025.html.ecr", io
     context.response.content_type = "text/html"
-    context.response.print(io)
+    context.response.print(p2025io)
   end
 end
 

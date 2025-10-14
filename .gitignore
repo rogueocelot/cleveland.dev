@@ -3,3 +3,11 @@
 /bin/
 /.shards/
 *.dwarf
+.env
+env
+.vscode
+.db
+*~
+*#
+.DS_Store
+.editorconfig
