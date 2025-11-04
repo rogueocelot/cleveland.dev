@@ -1,27 +1,29 @@
-# clevelandelectionmap
+# cleveland.dev
 
-TODO: Write a description here
-
-## Installation
-
-TODO: Write installation instructions here
+This website contains election maps for the city of Cleveland, Ohio, along with other interesting pages using civic data.
 
 ## Usage
 
-TODO: Write usage instructions here
+#### To run locally:
+  1. Install [Crystal](https://crystal-lang.org/)
+  2. Clone this repository
+  3. Run the following commands:
+```bash
+  cd cleveland.dev/
+  #note: in production, the below command is run with the --release compiler flag
+  crystal run src/clevelandelectionmap.cr
+```
+  4. Navigate to http://0.0.0.0:8080 in the browser
+
+#### Example:
+
+<p align="center">
+    <img src="data/example.png" width="700">
+</p>
 
 ## Development
 
-TODO: Write development instructions here
-
-## Contributing
-
-1. Fork it (<https://github.com/your-github-user/clevelandelectionmap/fork>)
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
-
-## Contributors
-
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+Todo:
+  * Add 2025 general election
+  * Gather old election data and precinct GeoJSON
+  * Migrate the real time RTA tracker at [wheresrta](https://wheresrta.net) to a subdomain (requires rewrite, Github [here](https://github.com/rogueocelot/wheresrta))
