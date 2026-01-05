@@ -16,11 +16,11 @@ render_page = ECR.embed "pages/councilgeneral2025.html.ecr", councilgeneral2025i
 server = HTTP::Server.new do |context|
   case context.request.path
   when "/"
-    context.response.redirect("/electionmap/council/primary/2025")
+    context.response.redirect("/electionmap/council/general/2025")
   when "/electionmap/"
-    context.response.redirect("/electionmap/council/primary/2025")
+    context.response.redirect("/electionmap/council/general/2025")
   when "/electionmap/council/"
-    context.response.redirect("/electionmap/council/primary/2025")
+    context.response.redirect("/electionmap/council/general/2025")
   when "/electionmap/council/primary/2025"
     context.response.content_type = "text/html"
     context.response.print(councilprimary2025io)
