@@ -1,0 +1,596 @@
+{
+  "1A": {
+    "Juanita O. Brent": 39,
+    "Joe Jones": 87
+  },
+  "1B": {
+    "Juanita O. Brent": 34,
+    "Joe Jones": 91
+  },
+  "1C": {
+    "Juanita O. Brent": 37,
+    "Joe Jones": 73
+  },
+  "1D": {
+    "Juanita O. Brent": 30,
+    "Joe Jones": 88
+  },
+  "1E": {
+    "Juanita O. Brent": 96,
+    "Joe Jones": 118
+  },
+  "1F": {
+    "Juanita O. Brent": 63,
+    "Joe Jones": 159
+  },
+  "1G": {
+    "Juanita O. Brent": 75,
+    "Joe Jones": 93
+  },
+  "1H": {
+    "Juanita O. Brent": 80,
+    "Joe Jones": 169
+  },
+  "1I": {
+    "Juanita O. Brent": 66,
+    "Joe Jones": 89
+  },
+  "1J": {
+    "Juanita O. Brent": 44,
+    "Joe Jones": 84
+  },
+  "1K": {
+    "Juanita O. Brent": 81,
+    "Joe Jones": 96
+  },
+  "1L": {
+    "Juanita O. Brent": 113,
+    "Joe Jones": 182
+  },
+  "1M": {
+    "Juanita O. Brent": 123,
+    "Joe Jones": 179
+  },
+  "1N": {
+    "Juanita O. Brent": 88,
+    "Joe Jones": 201
+  },
+  "1O": {
+    "Juanita O. Brent": 74,
+    "Joe Jones": 153
+  },
+  "1P": {
+    "Juanita O. Brent": 109,
+    "Joe Jones": 137
+  },
+  "1Q": {
+    "Juanita O. Brent": 128,
+    "Joe Jones": 158
+  },
+  "1R": {
+    "Juanita O. Brent": 77,
+    "Joe Jones": 158
+  },
+  "1S": {
+    "Juanita O. Brent": 82,
+    "Joe Jones": 145
+  },
+  "2A": {
+    "Kevin L. Bishop": 67
+  },
+  "2B": {
+    "Kevin L. Bishop": 63
+  },
+  "2C": {
+    "Kevin L. Bishop": 94
+  },
+  "2D": {
+    "Kevin L. Bishop": 66
+  },
+  "2E": {
+    "Kevin L. Bishop": 144
+  },
+  "2F": {
+    "Kevin L. Bishop": 126
+  },
+  "2G": {
+    "Kevin L. Bishop": 159
+  },
+  "2H": {
+    "Kevin L. Bishop": 136
+  },
+  "2I": {
+    "Kevin L. Bishop": 94
+  },
+  "2J": {
+    "Kevin L. Bishop": 166
+  },
+  "2K": {
+    "Kevin L. Bishop": 140
+  },
+  "2L": {
+    "Kevin L. Bishop": 177
+  },
+  "2M": {
+    "Kevin L. Bishop": 96
+  },
+  "2N": {
+    "Kevin L. Bishop": 125
+  },
+  "2O": {
+    "Kevin L. Bishop": 259
+  },
+  "2P": {
+    "Kevin L. Bishop": 158
+  },
+  "3A": {
+   "Deborah A. Gray": 83,
+   "Erich V. Stubbs": 13,
+   "Write-in": 0
+  },
+  "3B": {
+    "Deborah A. Gray": 34,
+    "Erich V. Stubbs": 17,
+    "Write-in": 1
+  },
+  "3C": {
+    "Deborah A. Gray": 182,
+    "Erich V. Stubbs": 24,
+    "Write-in": 1
+  },
+  "3D": {
+    "Deborah A. Gray": 142,
+    "Erich V. Stubbs": 24,
+    "Write-in": 2
+  },
+  "3E": {
+    "Deborah A. Gray": 139,
+    "Erich V. Stubbs": 29,
+    "Write-in": 1
+  },
+  "3F": {
+    "Deborah A. Gray": 61,
+    "Erich V. Stubbs": 12,
+    "Write-in": 3
+  },
+  "3G": {
+    "Deborah A. Gray": 142,
+    "Erich V. Stubbs": 27,
+    "Write-in": 2
+  },
+  "3H": {
+    "Deborah A. Gray": 55,
+    "Erich V. Stubbs": 15,
+    "Write-in": 2
+  },
+  "3I": {
+    "Deborah A. Gray": 86,
+    "Erich V. Stubbs": 28,
+    "Write-in": 2
+  },
+  "3J": {
+    "Deborah A. Gray": 50,
+    "Erich V. Stubbs": 25,
+    "Write-in": 1
+  },
+  "3K": {
+    "Deborah A. Gray": 68,
+    "Erich V. Stubbs": 28,
+    "Write-in": 3
+  },
+  "3L": {
+    "Deborah A. Gray": 119,
+    "Erich V. Stubbs": 14,
+    "Write-in": 0
+  },
+  "3M": {
+    "Deborah A. Gray": 126,
+    "Erich V. Stubbs": 33,
+    "Write-in": 0
+  },
+  "3N": {
+    "Deborah A. Gray": 305,
+    "Erich V. Stubbs": 121,
+    "Write-in": 4
+  },
+  "3O": {
+    "Deborah A. Gray": 158,
+    "Erich V. Stubbs": 17,
+    "Write-in": 0
+  },
+  "3P": {
+    "Deborah A. Gray": 169,
+    "Erich V. Stubbs": 40,
+    "Write-in": 2
+  },
+  "3Q": {
+    "Deborah A. Gray": 125,
+    "Erich V. Stubbs": 11,
+    "Write-in": 1
+  },
+  "3R": {
+    "Deborah A. Gray": 158,
+    "Erich V. Stubbs": 36,
+    "Write-in": 1
+  },
+  "4A": {
+    "Kris Harsh": 135,
+    "Rehan Waheed": 61,
+    "Write-in": 1
+  },
+  "4B": {
+    "Kris Harsh": 94,
+    "Rehan Waheed": 39,
+    "Write-in": 1
+  },
+  "4C": {
+    "Kris Harsh": 115,
+    "Rehan Waheed": 57,
+    "Write-in": 1
+  },
+  "4D": {
+    "Kris Harsh": 100,
+    "Rehan Waheed": 50,
+    "Write-in": 2
+  },
+  "4E": {
+    "Kris Harsh": 92,
+    "Rehan Waheed": 52,
+    "Write-in": 2
+  },
+  "4F": {
+    "Kris Harsh": 111,
+    "Rehan Waheed": 42,
+    "Write-in": 4
+  },
+  "4G": {
+    "Kris Harsh": 160,
+    "Rehan Waheed": 48,
+    "Write-in": 0
+  },
+  "4H": {
+    "Kris Harsh": 159,
+    "Rehan Waheed": 45,
+    "Write-in": 1
+  },
+  "4I": {
+    "Kris Harsh": 195,
+    "Rehan Waheed": 100,
+    "Write-in": 2
+  },
+  "4J": {
+    "Kris Harsh": 145,
+    "Rehan Waheed": 62,
+    "Write-in": 0
+  },
+  "4K": {
+    "Kris Harsh": 131,
+    "Rehan Waheed": 62,
+    "Write-in": 0
+  },
+  "4L": {
+    "Kris Harsh": 81,
+    "Rehan Waheed": 45,
+    "Write-in": 1
+  },
+  "4M": {
+    "Kris Harsh": 164,
+    "Rehan Waheed": 70,
+    "Write-in": 2
+  },
+  "4N": {
+    "Kris Harsh": 145,
+    "Rehan Waheed": 57,
+    "Write-in": 0
+  },
+  "4O": {
+    "Kris Harsh": 201,
+    "Rehan Waheed": 40,
+    "Write-in": 2
+  },
+  "4P": {
+    "Kris Harsh": 126,
+    "Rehan Waheed": 50,
+    "Write-in": 4
+  },
+  "4Q": {
+    "Kris Harsh": 184,
+    "Rehan Waheed": 84,
+    "Write-in": 0
+  },
+  "5A": {
+    "Rebecca Maurer": 23,
+    "Richard A. Starr": 82,
+    "Write-in": 0
+  },
+  "5B": {
+    "Rebecca Maurer": 15,
+    "Richard A. Starr": 55,
+    "Write-in": 0
+  },
+  "5C": {
+    "Rebecca Maurer": 100,
+    "Richard A. Starr": 60,
+    "Write-in": 3
+  },
+  "5D": {
+    "Rebecca Maurer": 23,
+    "Richard A. Starr": 81,
+    "Write-in": 0
+  },
+  "5E": {
+    "Rebecca Maurer": 31,
+    "Richard A. Starr": 20,
+    "Write-in": 1
+  },
+  "5F": {
+    "Rebecca Maurer": 13,
+    "Richard A. Starr": 72,
+    "Write-in": 0
+  },
+  "5G": {
+    "Rebecca Maurer": 50,
+    "Richard A. Starr": 30,
+    "Write-in": 0
+  },
+  "5H": {
+    "Rebecca Maurer": 25,
+    "Richard A. Starr": 122,
+    "Write-in": 1
+  },
+  "5I": {
+    "Rebecca Maurer": 81,
+    "Richard A. Starr": 34,
+    "Write-in": 0
+  },
+  "5J": {
+    "Rebecca Maurer": 87,
+    "Richard A. Starr": 25,
+    "Write-in": 1
+  },
+  "5K": {
+    "Rebecca Maurer": 22,
+    "Richard A. Starr": 59,
+    "Write-in": 0
+  },
+  "5L": {
+    "Rebecca Maurer": 18,
+    "Richard A. Starr": 128,
+    "Write-in": 0
+  },
+  "5M": {
+    "Rebecca Maurer": 21,
+    "Richard A. Starr": 162,
+    "Write-in": 0
+  },
+  "5N": {
+    "Rebecca Maurer": 82,
+    "Richard A. Starr": 83,
+    "Write-in": 0
+  },
+  "5O": {
+    "Rebecca Maurer": 54,
+    "Richard A. Starr": 195,
+    "Write-in": 4
+  },
+  "6A": { "Blaine A. Griffin": 202},
+  "6B": { "Blaine A. Griffin": 125},
+  "6C": { "Blaine A. Griffin": 138},
+  "6D": { "Blaine A. Griffin": 66},
+  "6E": { "Blaine A. Griffin": 150},
+  "6F": { "Blaine A. Griffin": 73},
+  "6G": { "Blaine A. Griffin": 94},
+  "6H": { "Blaine A. Griffin": 84},
+  "6I": { "Blaine A. Griffin": 124},
+  "6J": { "Blaine A. Griffin": 162},
+  "6K": { "Blaine A. Griffin": 104},
+  "6L": { "Blaine A. Griffin": 150},
+  "6M": { "Blaine A. Griffin": 203},
+  "6N": { "Blaine A. Griffin": 204},
+  "6O": { "Blaine A. Griffin": 93},
+  "6P": { "Blaine A. Griffin": 145},
+  "6Q": { "Blaine A. Griffin": 169},
+  "7A": { "Austin N. Davis": 40, "Mohammad Faraj": 39 },
+  "7B": { "Austin N. Davis": 146, "Mohammad Faraj": 138 },
+  "7C": { "Austin N. Davis": 199, "Mohammad Faraj": 109 },
+  "7D": { "Austin N. Davis": 216, "Mohammad Faraj": 108 },
+  "7E": { "Austin N. Davis": 128, "Mohammad Faraj": 83 },
+  "7F": { "Austin N. Davis": 221, "Mohammad Faraj": 96 },
+  "7G": { "Austin N. Davis": 139, "Mohammad Faraj": 96 },
+  "7H": { "Austin N. Davis": 85, "Mohammad Faraj": 60 },
+  "7I": { "Austin N. Davis": 117, "Mohammad Faraj": 149 },
+  "7J": { "Austin N. Davis": 152, "Mohammad Faraj": 90 },
+  "7K": { "Austin N. Davis": 150, "Mohammad Faraj": 155 },
+  "7L": { "Austin N. Davis": 129, "Mohammad Faraj": 137 },
+  "7M": { "Austin N. Davis": 178, "Mohammad Faraj": 103 },
+  "7N": { "Austin N. Davis": 163, "Mohammad Faraj": 134 },
+  "7O": { "Austin N. Davis": 159, "Mohammad Faraj": 94 },
+  "7P": { "Austin N. Davis": 128, "Mohammad Faraj": 95 },
+  "7Q": { "Austin N. Davis": 95, "Mohammad Faraj": 38 },
+  "7R": { "Austin N. Davis": 126, "Mohammad Faraj": 74},
+  "8A": {
+    "Stephanie Howse-Jones": 9,
+    "Charlotte Perkins": 0
+  },
+  "8B": {
+    "Stephanie Howse-Jones": 131,
+    "Charlotte Perkins": 22
+  },
+  "8C": {
+    "Stephanie Howse-Jones": 96,
+    "Charlotte Perkins": 22
+  },
+  "8D": {
+    "Stephanie Howse-Jones": 43,
+    "Charlotte Perkins": 21
+  },
+  "8E": {
+    "Stephanie Howse-Jones": 108,
+    "Charlotte Perkins": 25
+  },
+  "8F": {
+    "Stephanie Howse-Jones": 94,
+    "Charlotte Perkins": 47
+  },
+  "8G": {
+    "Stephanie Howse-Jones": 119,
+    "Charlotte Perkins": 32
+  },
+  "8H": {
+    "Stephanie Howse-Jones": 77,
+    "Charlotte Perkins": 27
+  },
+  "8I": {
+    "Stephanie Howse-Jones": 96,
+    "Charlotte Perkins": 23
+  },
+  "8J": {
+    "Stephanie Howse-Jones": 49,
+    "Charlotte Perkins": 37
+  },
+  "8K": {
+    "Stephanie Howse-Jones": 74,
+    "Charlotte Perkins": 37
+  },
+  "8L": {
+    "Stephanie Howse-Jones": 218,
+    "Charlotte Perkins": 64
+  },
+  "8M": {
+    "Stephanie Howse-Jones": 86,
+    "Charlotte Perkins": 23
+  },
+  "8N": {
+    "Stephanie Howse-Jones": 92,
+    "Charlotte Perkins": 24
+  },
+  "8O": {
+    "Stephanie Howse-Jones": 118,
+    "Charlotte Perkins": 34
+  },
+  "8P": {
+    "Stephanie Howse-Jones": 139,
+    "Charlotte Perkins": 53
+  },
+  "8Q": {
+    "Stephanie Howse-Jones": 77,
+    "Charlotte Perkins": 51
+  },
+  "9A": { "Alana Belle": 54, "Kevin Conwell": 88, "Write-in": 0 },
+  "9B": { "Alana Belle": 49, "Kevin Conwell": 128, "Write-in": 0 },
+  "9C": { "Alana Belle": 27, "Kevin Conwell": 136, "Write-in": 1 },
+  "9D": { "Alana Belle": 31, "Kevin Conwell": 143, "Write-in": 0 },
+  "9E": { "Alana Belle": 41, "Kevin Conwell": 117, "Write-in": 0 },
+  "9F": { "Alana Belle": 53, "Kevin Conwell": 134, "Write-in": 2 },
+  "9G": { "Alana Belle": 24, "Kevin Conwell": 118, "Write-in": 0 },
+  "9H": { "Alana Belle": 53, "Kevin Conwell": 159, "Write-in": 1 },
+  "9I": { "Alana Belle": 24, "Kevin Conwell": 105, "Write-in": 0 },
+  "9J": { "Alana Belle": 14, "Kevin Conwell": 111, "Write-in": 1 },
+  "9K": { "Alana Belle": 50, "Kevin Conwell": 120, "Write-in": 0 },
+  "9L": { "Alana Belle": 21, "Kevin Conwell": 118, "Write-in": 0 },
+  "9M": { "Alana Belle": 50, "Kevin Conwell": 140, "Write-in": 0 },
+  "9N": { "Alana Belle": 36, "Kevin Conwell": 94, "Write-in": 5 },
+  "9O": { "Alana Belle": 36, "Kevin Conwell": 124, "Write-in": 4 },
+  "9P": { "Alana Belle": 17, "Kevin Conwell": 29, "Write-in": 0 },
+  "9Q": { "Alana Belle": 34, "Kevin Conwell": 149, "Write-in": 2 },
+  "9R": { "Alana Belle": 7, "Kevin Conwell": 18, "Write-in": 0 },
+  "9S": { "Alana Belle": 43, "Kevin Conwell": 157, "Write-in": 3 },
+  "9T": { "Alana Belle": 25, "Kevin Conwell": 109, "Write-in": 1 },
+  "10A": { "Anthony T. Hairston": 76, "Michael D. Polensek": 304, "Write-in": 1 },
+  "10B": { "Anthony T. Hairston": 54, "Michael D. Polensek": 279, "Write-in": 0 },
+  "10C": { "Anthony T. Hairston": 50, "Michael D. Polensek": 220, "Write-in": 0 },
+  "10D": { "Anthony T. Hairston": 46, "Michael D. Polensek": 125, "Write-in": 0 },
+  "10E": { "Anthony T. Hairston": 86, "Michael D. Polensek": 131, "Write-in": 0 },
+  "10F": { "Anthony T. Hairston": 80, "Michael D. Polensek": 64, "Write-in": 0 },
+  "10G": { "Anthony T. Hairston": 39, "Michael D. Polensek": 265, "Write-in": 0 },
+  "10H": { "Anthony T. Hairston": 64, "Michael D. Polensek": 123, "Write-in": 1 },
+  "10I": { "Anthony T. Hairston": 46, "Michael D. Polensek": 187, "Write-in": 0 },
+  "10J": { "Anthony T. Hairston": 78, "Michael D. Polensek": 260, "Write-in": 0 },
+  "10K": { "Anthony T. Hairston": 33, "Michael D. Polensek": 91, "Write-in": 0 },
+  "10L": { "Anthony T. Hairston": 50, "Michael D. Polensek": 216, "Write-in": 1 },
+  "10M": { "Anthony T. Hairston": 33, "Michael D. Polensek": 132, "Write-in": 1 },
+  "10N": { "Anthony T. Hairston": 65, "Michael D. Polensek": 97, "Write-in": 0 },
+  "10O": { "Anthony T. Hairston": 37, "Michael D. Polensek": 96, "Write-in": 0 },
+  "10P": { "Anthony T. Hairston": 130, "Michael D. Polensek": 78, "Write-in": 0 },
+  "10Q": { "Anthony T. Hairston": 96, "Michael D. Polensek": 46, "Write-in": 0 },
+  "10R": { "Anthony T. Hairston": 139, "Michael D. Polensek": 58, "Write-in": 1 },
+  "10S": { "Anthony T. Hairston": 151, "Michael D. Polensek": 71, "Write-in": 1 },
+  "11A": { "Nikki Hudson": 152},
+  "11B": { "Nikki Hudson": 161},
+  "11C": { "Nikki Hudson": 74},
+  "11D": { "Nikki Hudson": 79},
+  "11E": { "Nikki Hudson": 114},
+  "11F": { "Nikki Hudson": 40},
+  "11G": { "Nikki Hudson": 56},
+  "11H": { "Nikki Hudson": 118},
+  "11I": { "Nikki Hudson": 73},
+  "11J": { "Nikki Hudson": 73},
+  "11K": { "Nikki Hudson": 223},
+  "11L": { "Nikki Hudson": 219},
+  "11M": { "Nikki Hudson": 171},
+  "11N": { "Nikki Hudson": 110},
+  "12A": { "Danny Kelly": 164, "Tanmay Shah": 154 },
+  "12B": { "Danny Kelly": 80, "Tanmay Shah": 212 },
+  "12C": { "Danny Kelly": 110, "Tanmay Shah": 349 },
+  "12D": { "Danny Kelly": 55, "Tanmay Shah": 118 },
+  "12E": { "Danny Kelly": 62, "Tanmay Shah": 35 },
+  "12F": { "Danny Kelly": 69, "Tanmay Shah": 53 },
+  "12G": { "Danny Kelly": 69, "Tanmay Shah": 93 },
+  "12H": { "Danny Kelly": 78, "Tanmay Shah": 59 },
+  "12I": { "Danny Kelly": 120, "Tanmay Shah": 76 },
+  "12J": { "Danny Kelly": 142, "Tanmay Shah": 59 },
+  "12K": { "Danny Kelly": 137, "Tanmay Shah": 60 },
+  "12L": { "Danny Kelly": 154, "Tanmay Shah": 73 },
+  "12M": { "Danny Kelly": 101, "Tanmay Shah": 59 },
+  "12N": { "Danny Kelly": 135, "Tanmay Shah": 85 },
+  "13A": { "Brian Kazy": 144, "Write-in": 11 },
+  "13B": { "Brian Kazy": 109, "Write-in": 7 },
+  "13C": { "Brian Kazy": 68, "Write-in": 3 },
+  "13D": { "Brian Kazy": 166, "Write-in": 16 },
+  "13E": { "Brian Kazy": 166, "Write-in": 7 },
+  "13F": { "Brian Kazy": 84, "Write-in": 8 },
+  "13G": { "Brian Kazy": 30, "Write-in": 4 },
+  "13H": { "Brian Kazy": 121, "Write-in": 11 },
+  "13I": { "Brian Kazy": 174, "Write-in": 9 },
+  "13J": { "Brian Kazy": 177, "Write-in": 8 },
+  "13K": { "Brian Kazy": 153, "Write-in": 12 },
+  "13L": { "Brian Kazy": 148, "Write-in": 10 },
+  "13M": { "Brian Kazy": 122, "Write-in": 11 },
+  "13N": { "Brian Kazy": 122, "Write-in": 10 },
+  "13O": { "Brian Kazy": 84, "Write-in": 6 },
+  "13P": { "Brian Kazy": 114, "Write-in": 9 },
+  "13Q": { "Brian Kazy": 119, "Write-in": 2 },
+  "14A": { "Jasmin Santana": 63},
+  "14B": { "Jasmin Santana": 68},
+  "14C": { "Jasmin Santana": 87},
+  "14D": { "Jasmin Santana": 91},
+  "14E": { "Jasmin Santana": 85},
+  "14F": { "Jasmin Santana": 48},
+  "14G": { "Jasmin Santana": 84},
+  "14H": { "Jasmin Santana": 93},
+  "14I": { "Jasmin Santana": 52},
+  "14J": { "Jasmin Santana": 99},
+  "14K": { "Jasmin Santana": 72},
+  "14L": { "Jasmin Santana": 76},
+  "14M": { "Jasmin Santana": 55},
+  "14N": { "Jasmin Santana": 85},
+  "14O": { "Jasmin Santana": 35},
+  "15A": { "Charles J. Slife": 181, "Write-in": 6 },
+  "15B": { "Charles J. Slife": 183, "Write-in": 9 },
+  "15C": { "Charles J. Slife": 224, "Write-in": 7 },
+  "15D": { "Charles J. Slife": 202, "Write-in": 4 },
+  "15E": { "Charles J. Slife": 234, "Write-in": 9 },
+  "15F": { "Charles J. Slife": 255, "Write-in": 7 },
+  "15G": { "Charles J. Slife": 182, "Write-in": 7 },
+  "15H": { "Charles J. Slife": 211, "Write-in": 6 },
+  "15I": { "Charles J. Slife": 218, "Write-in": 2 },
+  "15J": { "Charles J. Slife": 258, "Write-in": 9 },
+  "15K": { "Charles J. Slife": 235, "Write-in": 10 },
+  "15L": { "Charles J. Slife": 55, "Write-in": 5 },
+  "15M": { "Charles J. Slife": 158, "Write-in": 1 },
+  "15N": { "Charles J. Slife": 267, "Write-in": 12 },
+  "15O": { "Charles J. Slife": 252, "Write-in": 7 },
+  "15P": { "Charles J. Slife": 254, "Write-in": 12 },
+  "15Q": { "Charles J. Slife": 282, "Write-in": 3 },
+  "15R": { "Charles J. Slife": 288, "Write-in": 6 }
+}
